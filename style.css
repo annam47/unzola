@@ -1,0 +1,114 @@
+body {
+  background-color: black !important;
+}
+.dropdown-toggle::after {
+  content: "";
+  border-top: 0 !important;
+}
+.mughal {
+  font-family: "Mozilla Headline", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.anam:hover a {
+  color: white !important;
+}
+.anam a {
+  transition: all 0.3s;
+}
+.dropdown-menu:hover a {
+  color: gray !important;
+}
+.dropdown-menu {
+  background-color: black !important;
+}
+.back {
+  width: 100%;
+  height: 700px;
+  position: relative;
+  overflow: hidden;
+}
+.fire {
+  width: 100%;
+  object-fit: cover;
+  position: absolute;
+  left: -970px;
+  top: -200px;
+}
+.fan {
+  background-attachment: fixed;
+  object-fit: cover;
+  width: 1500px;
+  top: -30px;
+  right: -880px;
+  position: absolute;
+}
+.phill {
+  background: linear-gradient(to right, rgb(211, 86, 236), rgb(114, 35, 218));
+}
+.flower {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+.register {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.chrome {
+  background: linear-gradient(to right, #dd77f7, #7708d8, green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.child1 {
+  background: linear-gradient(to right, #32e2e2, #2225b1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.child2 {
+  background: linear-gradient(to right, #15f157, #2225b1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.picture {
+  position: relative;
+}
+.gree {
+  backdrop-filter: blur(10px);
+  position: absolute;
+  top: 75px;
+}
+.max {
+  overflow: hidden;
+
+  width: 100%;
+  height: 630px;
+}
+.child5 :hover a {
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  width: 100%;
+  color: black;
+  background-color: white;
+}
+.child5 a {
+  transition: all 0.1s;
+}
+.maha :hover a {
+  color: white;
+}
+.maha a {
+  color: gray;
+  text-decoration: none;
+}
+.maryam {
+  background: linear-gradient(black, black, black, rgb(43,  19,  43));
+}
