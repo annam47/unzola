@@ -30,6 +30,7 @@ body {
   overflow: hidden;
 }
 .fire {
+  background-attachment: fixed;
   width: 100%;
   object-fit: cover;
   position: absolute;
@@ -40,8 +41,8 @@ body {
   background-attachment: fixed;
   object-fit: cover;
   width: 1500px;
-  top: -30px;
-  right: -880px;
+  top: -5%;
+  right: -65%;
   position: absolute;
 }
 .phill {
